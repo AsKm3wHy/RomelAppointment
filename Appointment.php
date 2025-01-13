@@ -7,7 +7,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/imagesloaded/4.1.4/imagesloaded.pkgd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.0/gsap.min.js"></script>
-    <link rel="stylesheet" href="css/Appointment.css">
+    <link rel="stylesheet" href="assets/styles/Appointment.css">
     <title>Romel Photograph</title>
 
 </head>
@@ -16,15 +16,15 @@
 
     <header>
         <div class="inner">
-            <div class="logo"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123024/wwf-logo.png"></div>
+            <div class="logo"><img src="/assets/icons/logo.png"></div>
             <div class="burger"></div>
             <nav>
                 <a href="index.php">Package</a>
                 <a class="active" href="Appointment.php">Appointment</a>
-                <a href="ContactUs.php">Contact Us</a>
+                <!-- <a href="ContactUs.php">Contact Us</a> -->
                 <a href="#">FAQ</a>
             </nav>
-            <a href="#" class="donate-link">Donate</a>
+
         </div>
     </header>
 

@@ -8,7 +8,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.0/gsap.min.js"></script>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/ContactUs.css">
+    <link rel="stylesheet" href="assets/styles/ContactUs.css">
     <title>Romel Photograph</title>
 
 </head>
@@ -17,7 +17,7 @@
 
     <header>
         <div class="inner">
-            <div class="logo"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123024/wwf-logo.png"></div>
+            <div class="logo"><img src="/assets/icons/logo.png"></div>
             <div class="burger"></div>
             <nav>
                 <a href="index.php">Package</a>

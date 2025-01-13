@@ -7,7 +7,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/imagesloaded/4.1.4/imagesloaded.pkgd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.0/gsap.min.js"></script>
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="assets/styles/index.css">
     <title>Romel Photograph</title>
 
 </head>
@@ -16,12 +16,12 @@
 
     <header>
         <div class="inner">
-            <div class="logo"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123024/wwf-logo.png"></div>
+            <div class="logo"><img src="/assets/icons/logo.png"></div>
             <div class="burger"></div>
             <nav>
                 <a class="active" href="#">Package</a>
                 <a href="Appointment.php">Appointment</a>
-                <a href="ContactUs.php">Contact Us</a>
+                <!-- <a href="ContactUs.php">Contact Us</a> -->
                 <a href="#">FAQ</a>
             </nav>
             <!-- <a href="#" class="donate-link">Donate</a> -->
@@ -33,14 +33,16 @@
             <div class="slider-container">
                 <div class="slider-images">
                     <div class="slider-item">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123024/lion2.jpg" alt="Image 1">
+                        <img src="https://scontent.fcrk1-1.fna.fbcdn.net/v/t39.30808-6/472134726_1055164879745841_4693753098681373929_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHzSRc8ON6GZjRjtFKOy0iBsoTgh7KyKh6yhOCHsrIqHjrgUP35jQmBfpXwtGYzYP-bHJ6K7xiUS0JC_xrjGSz3&_nc_ohc=vbDZA4V5fEUQ7kNvgH7XeL9&_nc_oc=AdjiWH7ql8JNWN2sKByBwbcUm1RGD_8XchdmIzN1moLC62B_KAi0zx4KSxpFycHPDt8&_nc_zt=23&_nc_ht=scontent.fcrk1-1.fna&_nc_gid=AKBzawsXoCHurJT5Va6rKOh&oh=00_AYAmo--idVqWP2EXs_bx6VkrwRs62ikJAYAoiop0dWq_6g&oe=678A282D"
+                            alt="Image 1">
                         <div class="slider-text">
                             <h2>Image 1</h2>
                             <p>Text for Image 1</p>
                         </div>
                     </div>
                     <div class="slider-item">
-                        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/123024/tiger2.jpg" alt="Image 2">
+                        <img src="https://scontent.fcrk1-4.fna.fbcdn.net/v/t39.30808-6/306517868_540552397873761_333507699314716760_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeH4Uy89eECYT6yV539FJzjVDuZihXU1oLQO5mKFdTWgtNq-dLIfFGvIHe8WIA-YA8NHwx2nyotF2IlI2vGnhVdn&_nc_ohc=Z8RVSkjdpY8Q7kNvgGZhj9n&_nc_oc=AdhIX3mM4Xfyuk57ad4p-VBCL1s61A99SM9FzW5GiuSMi_bpu3I6v2B7oPAmMEKkPpU&_nc_zt=23&_nc_ht=scontent.fcrk1-4.fna&_nc_gid=A_hEAZj727zasCztj-RG6EU&oh=00_AYD2tFzyGvAjsT3lEv6YvHQrZ1VSvhYbWFoYY5SJQfin-g&oe=678A3F99"
+                            alt="Image 2">
                         <div class="slider-text">
                             <h2>Image 2</h2>
                             <p>Text for Image 2</p>
